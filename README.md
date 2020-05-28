@@ -6,3 +6,8 @@ This repo contains the writeup and code for a tutorial on how to visualize bike 
 <img src=http://www.clipular.com/c?10951071=aD5PWoWf3MjZaDGbvSxV7ZyIeM4&f=.png>
 </img>
 </a>
+
+
+blah blah blah
+
+
